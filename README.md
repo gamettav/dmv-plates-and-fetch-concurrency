@@ -1,4 +1,4 @@
-# fetch-concurrency
+# dmv-plates-and-fetch-concurrency
 
 Small TypeScript example: fetch URLs with a max concurrency and test it with Vitest.
 
